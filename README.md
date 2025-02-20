@@ -11,6 +11,9 @@
 
 This project analyzes the real estate market in Riyadh, focusing on property distribution, pricing trends, and investment opportunities across different districts. The dataset includes various attributes of listed properties, which are explored through exploratory data analysis (EDA).
 
+## Project Story
+https://riyadhvillas.streamlit.app/
+
 ## Key Questions Answered
 
 ### 1️⃣ How many properties are listed in each Riyadh region?
